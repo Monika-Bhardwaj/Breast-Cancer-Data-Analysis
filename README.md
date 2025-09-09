@@ -1,5 +1,10 @@
 # 🧬 Breast Cancer Data Analysis
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.x-brightgreen)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red)
+
 An interactive Streamlit web application and exploratory notebook for analyzing breast cancer data using survival analysis, machine learning, and SHAP-based explainability.
 
 ---
@@ -47,7 +52,7 @@ Breast-Cancer-Data-Analysis/
 ### 📦 Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/Breast-Cancer-Data-Analysis.git
+   git clone https://github.com/Monika-Bhardwaj/Breast-Cancer-Data-Analysis.git
    cd Breast-Cancer-Data-Analysis
 
 2. Install dependencies:
@@ -119,41 +124,21 @@ Add XGBoost or Logistic Regression options
 
 📜 License
 
-This project is licensed under the MIT License
-.
+This project is licensed under the [MIT License](LICENSE).
+
 
 👤 Author
 
-Your Name
+Monika Bhardwaj
 
-Google Data Analytics Apprenticeship (2025)
 
-GitHub: yourusername
+GitHub: [Monika-Bhardwaj](https://github.com/Monika-Bhardwaj)
 
-🌐 Live Demo (optional)
 
-If deployed, include a link here:
+🌐 Live Demo 
 
-👉 Breast Cancer App Live
+👉 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://breast-cancer-data-analysis-8expporliqyetd6xpotemo.streamlit.app/)
 
 
 ---
-
-### ✅ To Use This:
-
-1. Save the text above as `README.md` in the root of your project.
-2. Replace:
-   - `yourusername` with your GitHub username.
-   - `Your Name` with your full name.
-   - `your-deployment-url` if you deploy the app.
-
-
-
-
-
-
-
-
-
-## 🗂️ Project Structure
 
